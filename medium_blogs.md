@@ -16,3 +16,5 @@
 ---
 9.Build a Free SIEM on AWS: Real-Time Cloud Threat Detection with Athena & GuardDuty - https://medium.com/@hemavarnas/build-a-free-siem-on-aws-real-time-cloud-threat-detection-with-athena-guardduty-d9e3d6a4ce9a
 ---
+10.Demystifying SPL in Splunk: How Log Analytics Works (Beginner Tutorial + Real Example) - https://hemavarnas.medium.com/demystifying-spl-in-splunk-how-log-analytics-works-beginner-tutorial-real-example-3505c8bb19de
+---
